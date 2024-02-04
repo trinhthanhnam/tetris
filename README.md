@@ -18,6 +18,7 @@ And a simple game screen with scoring:
 
 Enjoy it for fun only!
 
+ok
 
 
 
